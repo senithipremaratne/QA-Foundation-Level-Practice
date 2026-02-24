@@ -36,5 +36,24 @@ For practice purposes, I performed manual testing on a demo web application (ban
 
 ---
 
-## 📂 Repository Structure
+
+## 📈 Learning Outcome
+
+Through this practice, I strengthened my understanding of:
+
+- The Software Development Life Cycle (SDLC)
+- The Software Testing Life Cycle (STLC)
+- Functional testing concepts
+- Importance of documentation in QA
+
+This repository represents the starting point of my QA career journey.
+
+---
+
+## 🚀 Next Steps
+
+- Expanding into Automation Testing
+- Learning Selenium & API Testing
+- Practicing real-world test scenarios
+
 
