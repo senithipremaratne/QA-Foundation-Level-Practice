@@ -1,15 +1,40 @@
-# QA Foundation Level Practice
+# QA Foundation Level Practice Portfolio
 
-This repository contains my exercises and practice from the **QA Foundation Level course**.  
-It demonstrates my understanding of **manual testing**, **test planning**, and **basic QA concepts**.
+## 👩‍💻 About This Repository
+This repository showcases my practical exercises and knowledge gained from completing the **QA Foundation Level program**.
 
-## 📌 What’s Included
-- Manual test cases for web applications
-- Test plans and checklists
-- Screenshots of exercises (if available)
+It demonstrates my understanding of:
+- Software Testing fundamentals
+- Manual Test Case Design
+- Test Planning
+- Bug Reporting
+- SDLC & STLC concepts
 
-## 🛠️ Tools & Concepts Learned
-- SDLC & STLC (Software Development & Testing Life Cycles)
-- Test case writing and execution
-- Bug reporting and documentation
-- Basics of QA processes
+This repository serves as a foundation for my journey toward becoming an Automation QA Engineer.
+
+---
+
+## 📌 Project Scope
+
+For practice purposes, I performed manual testing on a demo web application (banking-style system) focusing on:
+
+- Login functionality
+- Navigation links
+- Input validation
+- Error handling
+- Basic functional testing scenarios
+
+---
+
+## 🛠 Skills Demonstrated
+
+- Writing structured manual test cases
+- Designing simple test plans
+- Identifying expected vs actual results
+- Understanding positive & negative test scenarios
+- Basic defect documentation
+
+---
+
+## 📂 Repository Structure
+
